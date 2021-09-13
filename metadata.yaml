@@ -1,0 +1,27 @@
+_repo: Sketches_66180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willis, Nathaniel Parker
+    aliases:
+    - Willis, N. Parker (Nathaniel Parker)
+    - Willis, N. P. (Nathaniel Parker)
+    birthdate: 1806
+    deathdate: 1867
+    gutenberg_agent_id: '6238'
+    url: http://www.gutenberg.org/2009/agents/6238
+    wikipedia: https://en.wikipedia.org/wiki/Nathaniel_Parker_Willis
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Sketches
+url: http://www.gutenberg.org/ebooks/66180
